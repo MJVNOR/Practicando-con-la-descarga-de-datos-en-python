@@ -9,7 +9,7 @@
 	Estos datos estan en forma de base de datos, existen datos como la fecha del accidente, que tipos de vehiculos fueron los involucrados, , fallecidos, tipo de accidente, etc.
 	
 ¿Que otros datos necesitarías?
-	La coordenada geografica del accidentesi quiero precisar las zonas de los accidentes.
+	La coordenada geografica del accidentes quiero precisar las zonas de los accidentes.
 
 ¿Qué estructura encontraste en los dato?
 	Una estructura semi tabular, porque hay datos anidados
