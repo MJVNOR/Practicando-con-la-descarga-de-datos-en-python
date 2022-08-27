@@ -14,8 +14,9 @@
 ¿Qué estructura encontraste en los dato?
 	Una estructura semi tabular, porque hay datos anidados
 
-¿Se pueden poner los datos en forma tabular para algún problema que nos interese en particular
-	Podemos investigar con los datos, que tipo de nacionalidad extrangera fue la mas expuesta a esta situacion de desaparicion.
+¿Se pueden poner los datos en forma tabular para algún problema que nos interese en particular?
+
+Podemos investigar con los datos, que tipo de nacionalidad extrangera fue la mas expuesta a esta situacion de desaparicion.
 	
 Para hacer esto dasacoplavaria la columna de "por_nacionalidad", juntaria a los hombres y mumeres en una sola columna y ya obtendria un dataframe de la cantidad de personas desaparecidas por nacionalidad.
 	
